@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pativashvili
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Angular framework
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently  FE developer (Angular)
 - 📫 How to reach me ...
 
 <!---
